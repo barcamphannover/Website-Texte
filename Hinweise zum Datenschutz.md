@@ -218,3 +218,5 @@ Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformu
 ### Instagram
 
 Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram eingebunden, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer ihr Gefallen betreffend die Inhalte kundtun, den Verfassern der Inhalte oder unsere Beiträge abonnieren können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von Instagram: http://instagram.com/about/legal/privacy/. 
+
+[Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de/)
